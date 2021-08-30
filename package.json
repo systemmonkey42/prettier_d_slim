@@ -1,5 +1,5 @@
 {
-  "name": "prettier_d_slim",
+  "name": "@systemmonkey42/prettier_d_slim",
   "version": "1.1.0",
   "description": "Makes prettier fast",
   "bin": {
@@ -11,11 +11,11 @@
   ],
   "author": "Mike Wyatt <wyatt.mike@gmail.com>",
   "contributors": [],
-  "homepage": "https://github.com/mikew/prettier_d_slim",
+  "homepage": "https://github.com/systemmonkey42/prettier_d_slim",
   "scripts": {},
   "repository": {
     "type": "git",
-    "url": "https://github.com/mikew/prettier_d_slim.js.git"
+    "url": "https://github.com/systemmonkey42/prettier_d_slim.git"
   },
   "dependencies": {
     "camelize": "^1.0.0",
