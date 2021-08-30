@@ -1,5 +1,11 @@
 # prettier_d_slim
 
+## Update -
+
+This fork is to ensure that prettier_d_slim installs a "prettier_d" binary (for ALE compatibility) and uses the latest
+version of "prettier" (v2.3.2 at the time).  (The authors last commit refers to pretty v1.19 which is very old and
+typescript support is broken.)
+
 Makes [prettier][] fast.
 
 ## "But prettier is pretty fast already, right?"
